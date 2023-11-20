@@ -7,8 +7,8 @@ import Providers from "./providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Hackathon bas x sui 2023",
-  description: "learn and test your language throug a blockchain powered app",
+  title: "Sui Bootcamp - VBI 2024",
+  description: "Sui Bootcamp - VBI Academy 2024",
 };
 
 export default function RootLayout({
